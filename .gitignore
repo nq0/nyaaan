@@ -111,3 +111,6 @@ nyaaan_back/.byebug_history
 
 # Ignore master key for decrypting credentials and more.
 nyaaan_back/config/master.key
+
+
+.DS_Store
