@@ -41,7 +41,7 @@ module Api
       end
 
       def post_params
-        params.require(:post).permit(:title, :description)
+        params.require(:post).permit(:title, :description, :completed)
       end
     end
   end
