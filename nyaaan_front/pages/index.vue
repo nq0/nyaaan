@@ -51,9 +51,6 @@
             </div>
           </div>
         </div>
-        <div class="links">
-          <a @click="postTitle" class="button--green">にゃっ</a>
-        </div>
       </div>
     </div>
     <div class="modal">
