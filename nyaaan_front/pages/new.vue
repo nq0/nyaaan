@@ -26,7 +26,7 @@
 
 <script>
 export default {
-  deta: () => ({
+  data: () => ({
     title: '',
     description: ''
   })
