@@ -141,6 +141,15 @@ li {
   list-style-type: none;
 }
 
+// select {
+//   -webkit-appearance: none;
+//   -moz-appearance: none;
+//   appearance: none;
+//   border: none;
+//   outline: none;
+//   background: transparent;
+// }
+
 .todo-list {
   &_title {
     padding: 20px;
